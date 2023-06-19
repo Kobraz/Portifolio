@@ -215,7 +215,9 @@ button a:hover{
 
 
 
-
+li {
+    padding-bottom: 20px;
+}
 
 
 main {
